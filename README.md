@@ -65,7 +65,7 @@ Backend aplikasi dikembangkan menggunakan Laravel sebagai REST API.
 
 Repository:
 
-> https://github.com/saniaaww/helpdesk_ticket
+> https://github.com/saniaaww/helpdesk_ticket_API
 
 ---
 
